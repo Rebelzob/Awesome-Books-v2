@@ -1,0 +1,23 @@
+{
+  "name": "awesome-books-v2",
+  "version": "1.0.0",
+  "description": "This is the version 2 of the Awesome books project, ES6 applied.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebelzob/Awesome-Books-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebelzob/Awesome-Books-v2/issues"
+  },
+  "homepage": "https://github.com/Rebelzob/Awesome-Books-v2#readme",
+  "dependencies": {
+    "luxon": "^3.3.0"
+  }
+}
