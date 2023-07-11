@@ -12,8 +12,8 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 \[Awesome Books Website \] ](#-awesome-books-website--)
-  - [🛠 Built With **HTML, CSS and JavaScript**](#-built-with-html-css-and-javascript)
-    - [Tech Stack **HTML, CSS and JavaScript**](#tech-stack-html-css-and-javascript)
+  - [🛠 Built With](#-built-with-html-css-and-javascript)
+    - [Tech Stack](#tech-stack-html-css-and-javascript)
     - [Key Features ](#key-features-)
     - [LiveDemo](#livedemo)
   - [💻 Getting Started ](#-getting-started-)
@@ -32,9 +32,14 @@
 
 # 📖 [Awesome Books Website ] <a name="about-project"></a>
 **Awesome Books Website** is a project under microverse Module 2 block 1 aimed at testing our knowledge about the concepts learnt and to help us build a website to take in and display books, also in this version 2 we implemented ES6.
-## 🛠 Built With **HTML, CSS and JavaScript**
+## 🛠 Built With 
 
-### Tech Stack **HTML, CSS and JavaScript**
+**HTML, CSS and JavaScript**
+
+### Tech Stack 
+
+**HTML, CSS and JavaScript**
+
 ### Key Features <a name="key-features"></a>
 - **Contains awesome books project that takes and stores books as ojects in an array**
 
